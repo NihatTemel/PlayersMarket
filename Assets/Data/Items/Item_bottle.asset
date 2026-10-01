@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3546cd06f0769e241b35a5d1cf301a6c, type: 3}
+  m_Name: Item_bottle
+  m_EditorClassIdentifier: 
+  id: bottle
+  displayName: "\u015Ei\u015Fe"
+  baseValue: 12
+  size: 0
+  mass: 0.5
+  fragile: 1
+  category: 0
+  equipSlot: 0
+  weaponType: 0
+  basePower: 0
+  maxStack: 1
+  icon: {fileID: 2800000, guid: cb390b25713a9c142a48ee4667c20865, type: 3}
+  visualPrefab: {fileID: 1805663326507536, guid: 24a03f4ff6a389c4783be3862c88fc42, type: 3}
+  visualOffset: {x: 0, y: 0, z: 0}
+  visualRotation: {x: 0, y: 0, z: 0}
+  visualScale: 1
+  fallbackShape: 2
+  fallbackColor: {r: 0.25, g: 0.6, b: 0.35, a: 1}
+  fallbackSize: {x: 0.1, y: 0.3, z: 0.1}

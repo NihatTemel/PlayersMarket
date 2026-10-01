@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3546cd06f0769e241b35a5d1cf301a6c, type: 3}
+  m_Name: Item_bowl
+  m_EditorClassIdentifier: 
+  id: bowl
+  displayName: Tahta Kase
+  baseValue: 9
+  size: 0
+  mass: 0.3
+  fragile: 0
+  category: 0
+  equipSlot: 0
+  weaponType: 0
+  basePower: 0
+  maxStack: 1
+  icon: {fileID: 2800000, guid: d1e16bacad217694bae4e85b3ae2f137, type: 3}
+  visualPrefab: {fileID: 4305734348405556321, guid: 5951f971024a62945a70df5f4c2985e1, type: 3}
+  visualOffset: {x: 0, y: 0, z: 0}
+  visualRotation: {x: 0, y: 0, z: 0}
+  visualScale: 1
+  fallbackShape: 2
+  fallbackColor: {r: 0.7, g: 0.5, b: 0.3, a: 1}
+  fallbackSize: {x: 0.28, y: 0.1, z: 0.28}

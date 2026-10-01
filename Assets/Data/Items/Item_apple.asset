@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3546cd06f0769e241b35a5d1cf301a6c, type: 3}
+  m_Name: Item_apple
+  m_EditorClassIdentifier: 
+  id: apple
+  displayName: Elma
+  baseValue: 4
+  size: 0
+  mass: 0.2
+  fragile: 0
+  category: 0
+  equipSlot: 0
+  weaponType: 0
+  basePower: 0
+  maxStack: 1
+  icon: {fileID: 2800000, guid: 9081ac28008c83c4b9c931b6360fda18, type: 3}
+  visualPrefab: {fileID: 862770660518368282, guid: e31bf42144a454340baa4183b3539cd4, type: 3}
+  visualOffset: {x: 0, y: 0, z: 0}
+  visualRotation: {x: 0, y: 0, z: 0}
+  visualScale: 1
+  fallbackShape: 1
+  fallbackColor: {r: 0.85, g: 0.15, b: 0.12, a: 1}
+  fallbackSize: {x: 0.12, y: 0.12, z: 0.12}

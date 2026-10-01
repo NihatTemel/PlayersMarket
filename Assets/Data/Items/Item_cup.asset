@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3546cd06f0769e241b35a5d1cf301a6c, type: 3}
+  m_Name: Item_cup
+  m_EditorClassIdentifier: 
+  id: cup
+  displayName: Bardak
+  baseValue: 8
+  size: 0
+  mass: 0.2
+  fragile: 1
+  category: 0
+  equipSlot: 0
+  weaponType: 0
+  basePower: 0
+  maxStack: 1
+  icon: {fileID: 2800000, guid: b237b74c67c73ef438e456ea941fd07e, type: 3}
+  visualPrefab: {fileID: 1484346228719654, guid: 577f3886dcc589649a230e4523de4d66, type: 3}
+  visualOffset: {x: 0, y: 0, z: 0}
+  visualRotation: {x: 0, y: 0, z: 0}
+  visualScale: 1
+  fallbackShape: 2
+  fallbackColor: {r: 0.92, g: 0.92, b: 0.88, a: 1}
+  fallbackSize: {x: 0.1, y: 0.12, z: 0.1}

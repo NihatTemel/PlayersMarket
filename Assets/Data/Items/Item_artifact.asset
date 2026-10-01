@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3546cd06f0769e241b35a5d1cf301a6c, type: 3}
+  m_Name: Item_artifact
+  m_EditorClassIdentifier: 
+  id: artifact
+  displayName: Antik Eser
+  baseValue: 120
+  size: 0
+  mass: 1.5
+  fragile: 1
+  category: 0
+  equipSlot: 0
+  weaponType: 0
+  basePower: 0
+  maxStack: 1
+  icon: {fileID: 2800000, guid: f0aad685796601a4a994d2013a6959b3, type: 3}
+  visualPrefab: {fileID: 6743154264552479072, guid: d93158440308f6a4f88ef35c5fdeb20f, type: 3}
+  visualOffset: {x: 0, y: 0, z: 0}
+  visualRotation: {x: 0, y: 0, z: 0}
+  visualScale: 1
+  fallbackShape: 0
+  fallbackColor: {r: 1, g: 0.8, b: 0.25, a: 1}
+  fallbackSize: {x: 0.22, y: 0.3, z: 0.22}

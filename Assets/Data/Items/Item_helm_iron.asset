@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3546cd06f0769e241b35a5d1cf301a6c, type: 3}
+  m_Name: Item_helm_iron
+  m_EditorClassIdentifier: 
+  id: helm_iron
+  displayName: "Demir Mi\u011Ffer"
+  baseValue: 80
+  size: 0
+  mass: 2
+  fragile: 0
+  category: 3
+  equipSlot: 2
+  weaponType: 0
+  basePower: 95
+  maxStack: 1
+  icon: {fileID: 2800000, guid: 3c728b12b5d0a93499935e8c19085469, type: 3}
+  visualPrefab: {fileID: 0}
+  visualOffset: {x: 0, y: 0, z: 0}
+  visualRotation: {x: 0, y: 0, z: 0}
+  visualScale: 1
+  fallbackShape: 0
+  fallbackColor: {r: 0.62, g: 0.65, b: 0.7, a: 1}
+  fallbackSize: {x: 0.4, y: 0.35, z: 0.3}
