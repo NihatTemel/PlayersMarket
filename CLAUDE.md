@@ -3,6 +3,8 @@
 Unity **6000.0.49f1** (URP), **Mirror 96** (host tabanli) + **Steamworks.NET** (FizzySteamworks).
 Co-op/tek oyunculu: gunduz market isletme, gece zindandan esya toplama, sabah satma.
 Kamera **3. sahis**. Ayni gelistiricinin onceki projesi: `C:\Users\user\BrawAnimals` (ag yapisi oradan uyarlandi).
+Proje klasoru (yerel): **`C:\UnityProjects\PlayersMarket`**. Git: `github.com/NihatTemel/PlayersMarket`, dal `main`;
+kullanici commit/push'u **Fork** ile yapar.
 Kullanici Turkce konusur. Kod yorumlari **ASCII Turkce** (s, c, g, i, o, u — ozel harf yok);
 arayuz metinleri Turkce karakterli olabilir.
 
